@@ -352,7 +352,15 @@ capable of tackling complex tasks across various industries.
 I would like to express my sincere gratitude to our guide, Dr. Chandrasekar R, for his invaluable support and guidance throughout this project. I also want to acknowledge the relentless efforts of my teammates, Ms. Seershika Mitnasala (B.Tech, CSE, NITPY) and Mr. Nandakishore KN (B.Tech, CSE, NITPY), whose collaboration was essential to the success of this project.
 
 Links:
+
+
 Dr. Chandrasekar R: chandrasekar.nitpy.ac.in
+
+
 Ms. Seershika Mitnasala : seershikamitnasala@gmail.com
+
+
 Mr Nandakishore KN: nandakishore2472003@gmail.com
+
+
 

@@ -4,8 +4,7 @@ The Real-Time Grasp Point Detection project developed an object detection system
 **1. INTRODUCTION**
 
 
-Grasp point detection is a cornerstone of robotics and computer vision, playing a vital
-role in enabling machines to interact with their environment by manipulating objects
+Grasp point detection is a cornerstone of robotics and computer vision, playing a vital role in enabling machines to interact with their environment by manipulating objects
 accurately and efficiently. The ability to identify the best points for grasping objects is
 essential for a wide range of applications, including industrial automation, robotic
 manufacturing, logistics, healthcare, and assistive technologies. This project focuses
